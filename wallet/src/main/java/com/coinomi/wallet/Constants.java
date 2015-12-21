@@ -211,7 +211,7 @@ public class Constants {
         COINS_ICONS.put(CoinID.DOGECOINDARK_MAIN.getCoinType(), R.drawable.dogecoindark);
         COINS_ICONS.put(CoinID.CLAMS_MAIN.getCoinType(), R.drawable.clams);
         COINS_ICONS.put(CoinID.GCR_MAIN.getCoinType(), R.drawable.gcr);
-		COINS_ICONS.put(CoinID.RICHCOIN_MAIN.getCoinType(), R.drawable.gcr);
+	COINS_ICONS.put(CoinID.RICHCOIN_MAIN.getCoinType(), R.drawable.richcoin);
 
         COINS_BLOCK_EXPLORERS = new HashMap<CoinType, String>();
         COINS_BLOCK_EXPLORERS.put(CoinID.BITCOIN_MAIN.getCoinType(), "https://blockchain.info/tx/%s");
