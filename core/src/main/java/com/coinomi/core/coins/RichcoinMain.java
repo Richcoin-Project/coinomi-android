@@ -20,7 +20,7 @@ public class RichcoinMain extends CoinType {
 
         family = BitFamily.get();
         name = "Richcoin";
-        symbol = "USD";
+        symbol = "RICHX";
         uriScheme = "richcoin";
         bip44Index = 80;
         unitExponent = 8;
